@@ -1,0 +1,12 @@
+Functionally using Js and Jquery
+
+1. To remove Card click on any card delete icon including card 4.
+
+2. To remove new action area click on Hide arrow icon, before clicking there is no show new action button at footer after clicking hide show will enabled.
+
+3.On changing Status to done option pop up display , to remove pop up click No or Cross icon.
+
+4. On clicking Save Button page loader will display for2 second.
+
+* navigate pagination
+
